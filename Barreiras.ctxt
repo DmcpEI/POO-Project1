@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Barreiras
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Barreiras\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ barreira
+comment1.target=Barreiras(greenfoot.GreenfootImage[],\ java.lang.String)
+comment2.params=
+comment2.target=greenfoot.GreenfootImage[]\ getImagens()
+comment3.params=abrir
+comment3.target=void\ abrirBarreira(boolean)
+comment4.params=
+comment4.target=boolean\ getAberta()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Botoes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Botoes\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ imagem\ scale
+comment1.target=Botoes(greenfoot.GreenfootImage[],\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ mouseToca()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage[]\ getImagens()
+comment4.params=
+comment4.target=void\ somClica()
+numComments=5
